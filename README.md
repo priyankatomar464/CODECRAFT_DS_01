@@ -21,4 +21,5 @@ A horizontal bar chart displaying the top 10 most populated countries in 2022.
 3. Run all cells to generate the plot
 
 ## 📎 Output Chart
-*(Optional: You can upload `chart.png` and link it here with `![Chart](chart.png)` if you saved the plot as a PNG)*
+*(Optional: You can upload `chart.png` and link it here with `![Chart Output](chart.png)
+` if you saved the plot as a PNG)*
